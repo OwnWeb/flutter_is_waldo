@@ -1,6 +1,7 @@
 name: flutter_is_waldo
 description: Provides an helper method to check if code is running in Waldo mode
-version: 0.0.1
+version: 0.0.1+1
+repository: https://github.com/OwnWeb/flutter_is_waldo
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
