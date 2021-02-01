@@ -18,4 +18,4 @@ import 'package:flutter_is_waldo/flutter_is_waldo.dart';
 print(await FlutterWaldo.isWaldo());  // true if running in waldo, false otherwise
 ```
 
-You will find links to the API docs on the [pub page](https://pub.dev/packages/flutter_is_waldo).
+You will find links to the API docs on the [pub API reference page](https://pub.dev/documentation/flutter_is_waldo/latest/flutter_is_waldo/flutter_is_waldo-library.html).
